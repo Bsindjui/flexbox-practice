@@ -1,0 +1,31 @@
+.square {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.block__one {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.block__two {
+
+}
+
+.block__three {
+
+}
+
+.block__four {
+
+}
+
+.block__five {
+
+}
+
+.block__six {
+    
+}
